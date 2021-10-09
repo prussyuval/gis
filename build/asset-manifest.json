@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/gis/static/css/main.9abeef4f.chunk.css",
+    "main.js": "/gis/static/js/main.a4ac9fda.chunk.js",
+    "main.js.map": "/gis/static/js/main.a4ac9fda.chunk.js.map",
+    "runtime-main.js": "/gis/static/js/runtime-main.76f1ba72.js",
+    "runtime-main.js.map": "/gis/static/js/runtime-main.76f1ba72.js.map",
+    "static/css/2.757f2d87.chunk.css": "/gis/static/css/2.757f2d87.chunk.css",
+    "static/js/2.dacdbf8e.chunk.js": "/gis/static/js/2.dacdbf8e.chunk.js",
+    "static/js/2.dacdbf8e.chunk.js.map": "/gis/static/js/2.dacdbf8e.chunk.js.map",
+    "static/js/3.733ed1af.chunk.js": "/gis/static/js/3.733ed1af.chunk.js",
+    "static/js/3.733ed1af.chunk.js.map": "/gis/static/js/3.733ed1af.chunk.js.map",
+    "index.html": "/gis/index.html",
+    "static/css/2.757f2d87.chunk.css.map": "/gis/static/css/2.757f2d87.chunk.css.map",
+    "static/css/main.9abeef4f.chunk.css.map": "/gis/static/css/main.9abeef4f.chunk.css.map",
+    "static/js/2.dacdbf8e.chunk.js.LICENSE.txt": "/gis/static/js/2.dacdbf8e.chunk.js.LICENSE.txt",
+    "static/media/loader.c0c2f010.gif": "/gis/static/media/loader.c0c2f010.gif",
+    "static/media/index.css": "/gis/static/media/roboto-vietnamese-400-normal.c0bec65d.woff2",
+    "static/media/volcano.816c94d8.png": "/gis/static/media/volcano.816c94d8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76f1ba72.js",
+    "static/css/2.757f2d87.chunk.css",
+    "static/js/2.dacdbf8e.chunk.js",
+    "static/css/main.9abeef4f.chunk.css",
+    "static/js/main.a4ac9fda.chunk.js"
+  ]
+}

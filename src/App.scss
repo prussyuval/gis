@@ -1,0 +1,92 @@
+html {
+  background: white;
+}
+
+.header {
+  background-color: rgb(223, 71, 89);
+  min-height: 5vh;
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  padding-left: 20px;
+  color: black;
+
+  img {
+    margin-right: 10px;
+  }
+}
+
+.table-container {
+  height: 750px;
+  width: 80%;
+  margin-left: 10%;
+  margin-top: 20px;
+}
+
+.nav-bar {
+  width: 200px;
+}
+
+.home-page {
+  text-align: center;
+
+  .site-title {
+    font-size: 50px;
+    margin-top: 25px;
+    color: red;
+  }
+
+  img {
+    margin-top: 15px;
+  }
+
+  .site-counter {
+    font-size: 30px;
+    margin-top: 25px;
+
+    .counter-text {
+      margin-left: 12px;
+    }
+  }
+}
+
+.single-volcano {
+  width: 95%;
+  margin-left: 2.5%;
+  margin-top: 25px;
+
+  display: flex;
+  justify-content: space-between;
+
+  .single-volcano-card {
+    width: 20%
+  }
+}
+
+.main-map {
+  margin-top: 25px;
+}
+
+.loader {
+  text-align: center;
+  margin-top: 25px;
+}
+
+.MuiDataGrid-columnsContainer {
+  background-color: rgb(223, 71, 89);
+  color: white;
+}
+
+.volcano-name {
+  color: rgb(223, 71, 89);
+}
+
+.register-title-form {
+  margin-top: 25px;
+  margin-left: 10px;
+  text-align: center;
+}
+
+.register-title {
+  color: rgb(223, 71, 89);
+}
